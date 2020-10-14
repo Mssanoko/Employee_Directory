@@ -12,15 +12,12 @@ function ResultList(props) {
             <th>Age</th>
           </tr>
           <tr>
-            <td>Jill</td >
+            <td>Jill</td>
             <td>Smith</td>
             <td>50</td>
           </tr>
         </table>
-        // <li className="list-group-item" key={result.id}>
-
-
-        // </li>
+       
       ))}
       
     </table>
